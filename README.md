@@ -6,5 +6,6 @@ The calculator has been implemented with number adjustments, which means that if
 
 Feel free to contact me about new features, adjustments, bugs and so on.
 
+
 Incoming features:
 * Allowing the user to click on which course to calculate their mark for (PBL, IIS, OFS and so on)
