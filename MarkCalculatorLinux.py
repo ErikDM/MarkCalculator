@@ -1,7 +1,7 @@
 
 import tkinter as tk
-import tkMessageBox
 from tkinter import *
+import tkMessageBox
 
 PBLwindow = tk.Tk() # Setting the root window to open by default.
 
