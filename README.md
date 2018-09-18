@@ -9,4 +9,4 @@ Feel free to contact me about new features, adjustments, bugs and so on.
 ------------------------------------------------------------------------
 
 Incoming features:
-* Allowing the user to click on which course to calculate their mark for (PBL, IIS, OFS and so on)
+* Allowing the user to click on which course to calculate their mark for (PBL, IIS, OFS and so on), since some courses have 15 TAPs, while others have 20 or more.
