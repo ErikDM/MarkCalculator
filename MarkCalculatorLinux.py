@@ -92,19 +92,19 @@ PBLot = StringVar()
 PBLcp = StringVar()
 
 # Placing out the entry field
-PBLInsertTap = Entry(PBLwindow, textvariable=PBLtaps, width=10) # Defining the IP address entry field into a variable.
+PBLInsertTap = Entry(PBLwindow, textvariable=PBLtaps, width=10) # Defining the entry field for TAP score.
 PBLInsertTap.place(x=140, y=50)
 PBLInsertTapLabel = Label(PBLwindow, text="TAPs completed:")
 PBLInsertTapLabel.place(x=20, y=50)
 
 # Placing out the entry field
-PBLInsertOt = Entry(PBLwindow, textvariable=PBLot, width=10) # Defining the IP address entry field into a variable.
+PBLInsertOt = Entry(PBLwindow, textvariable=PBLot, width=10) # Defining the entry field for online test score.
 PBLInsertOt.place(x=140, y=90)
 PBLInsertOtLabel = Label(PBLwindow, text="Online test score:")
 PBLInsertOtLabel.place(x=14, y=90)
 
 # Placing out the entry field
-PBLInsertCp = Entry(PBLwindow, textvariable=PBLcp, width=10) # Defining the IP address entry field into a variable.
+PBLInsertCp = Entry(PBLwindow, textvariable=PBLcp, width=10) # Defining the entry field for assessment week score.
 PBLInsertCp.place(x=140, y=130)
 PBLInsertCpLabel = Label(PBLwindow, text="Assessment score:")
 PBLInsertCpLabel.place(x=7, y=130)
