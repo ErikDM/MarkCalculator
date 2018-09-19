@@ -25,6 +25,5 @@ Feel free to contact me about new features, adjustments, bugs and so on.
 * Allowing the user to click on which course to calculate their mark for (PBL, IIS, OFS, MST and so on), since some courses have 15 TAPs, while others have 20 or more.
 * Allowing the user to press "ENTER" after putting in numbers, instead of clicking the "Calculate" button.
 
-
 # Implemented features:
 * Removing a bug caused by simultaneously clicking the "Calculate" button. A ")" appears in the end of the score.
