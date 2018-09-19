@@ -14,7 +14,7 @@ You can also execute the file MarkCalculatorWindows.exe directly without any ins
 
 # Linux
 To run the program, use the following command:
-python MarkCalculatorLinux.py
+```python MarkCalculatorLinux.py```
 
 ------------------------------------------------------------------------
 
