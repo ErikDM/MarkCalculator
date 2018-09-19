@@ -15,7 +15,7 @@ You can also execute the file MarkCalculatorWindows.exe directly without any ins
 # Linux
 To run the program, use the following command:
 ```python MarkCalculatorLinux.py```
-MarkCalculator is dependant on Tkinter. Install the following package: ```apt-get install python-tk```
+MarkCalculator is dependant on Tkinter. You can install the Tkinter package by typing: ```apt-get install python-tk```
 
 ------------------------------------------------------------------------
 
