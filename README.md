@@ -26,4 +26,4 @@ Feel free to contact me about new features, adjustments, bugs and so on.
 * Allowing the user to press "ENTER" after putting in numbers, instead of clicking the "Calculate" button.
 
 # Implemented features:
-* Removing a bug caused by simultaneously clicking the "Calculate" button. A ")" appears in the end of the score.
+* Removing a bug caused by simultaneously clicking the "Calculate" button. A ")" appeared in the end of the score.
