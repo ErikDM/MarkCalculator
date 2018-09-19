@@ -62,6 +62,10 @@ def CalculateResults1():
 	# Placing out the Total Score label, Mark label etc.
 	PBLScoreLabel = Label(PBLwindow, text="Total score:")
 	PBLScoreLabel.place(x=78, y=220)
+	
+	if PBLTotalRounded == 100.0:
+		PBLTotalRounded = 100
+		
 	PBLTotalLabel = Label(PBLwindow, text=(PBLTotalRounded))
 	PBLTotalLabel.place(x=160, y=220)
 	PBLMarkLabel = Label(PBLwindow, text="Mark:")
