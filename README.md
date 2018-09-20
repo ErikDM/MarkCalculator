@@ -6,8 +6,11 @@ The calculator has been implemented with number adjustments, which means that if
 
 The .exe file was created with Pyinstaller, and the setup wizard was created with Inno Setup. For more information, see: http://www.jrsoftware.org/isinfo.php
 
+<p align="center">
+  
 ![alt text](https://github.com/ErikDM/MarkCalculator/blob/master/MarkCalculatorImage.PNG)
 
+</p>
 -----------------------------------------------------------------------
 
 # Windows
