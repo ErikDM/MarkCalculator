@@ -1,8 +1,6 @@
 # MarkCalculator - Created for students at Noroff Education
 
-<p align="center">
-  <img https://github.com/ErikDM/MarkCalculator/blob/master/MarkCalculatorImage.PNG />
-</p>
+![alt text](https://github.com/ErikDM/MarkCalculator/blob/master/MarkCalculatorImage.PNG)
 
 This program is created to calculate your mark during the PBL course at Noroff Education. This is NOT an official calculator. The calculator is designed to calculate your total mark based on your score on TAPs, Online Test and Assessment week. Only 12/15 TAPs are counted as points, since 4/5 are mandatory.
 
